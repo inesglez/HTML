@@ -1,0 +1,12 @@
+<html>
+<body bgcolor="#F7EC83">
+<h1><font color="#F42727" size="11">Titulo</font></h1>
+<br>
+<i><font color="#F6B731"><A HREF="ejercicio2.html"target"_self>ejercicio2</A></font></i>
+<br>
+<i><font color="#98F783" size="5"><A HREF="ejercicio3.html"target"_self>ejercicio3</A></font></i>
+<br>
+<i><font color="#83F7E0" size="7"><A HREF="ejercicio4.html"target"_self>ejercicio4</A></font></i>
+
+</body>
+</hmtl>
